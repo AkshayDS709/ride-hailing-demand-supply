@@ -6,6 +6,11 @@ The project uses - Auto ARIMA, Random Forest regressor, LSTM
 
 ## Dataset
 The dataset consists of ride transactions for a Month for a city . It includes start and end latitude/longitude along with ride value.
+Sample Data 
+
+| start_time | start_lat | start_lng | end_lat | end_lng | ride_value | 
+|--------|------------------------|------------------------|------------------------| ------------------------|------------------------|
+| 2025-09-01 | 59.44435485 | 24.83000276 | 59.36179989 | 24.74020603 | 0.6005 | 
 
 ## Approach
 1. **Exploratory Data Analysis (EDA)**
