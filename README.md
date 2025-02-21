@@ -2,6 +2,7 @@
 
 ## Overview
 This project focuses on predicting demand at specific times and locations to direct drivers toward areas with higher expected demand, ensuring a better match between riders and drivers.
+The project uses - Auto ARIMA, Random Forest regressor, LSTM
 
 ## Dataset
 The dataset consists of ride transactions for a Month for a city . It includes start and end latitude/longitude along with ride value.
